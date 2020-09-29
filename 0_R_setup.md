@@ -21,7 +21,7 @@ From [RStudio Documentation](https://docs.rstudio.com/resources/install-r/)
 `R`   
 
 **Installing R-packages**  
-This could a little painful experience in CENTOS7. Let's start `sf`. I am following the instrucations from [r-spatial/sf](https://github.com/r-spatial/sf/wiki/Installation-Guide)  
+This could a little painful experience in CENTOS7. Let's start `sf`. I am following the instrucations from [r-spatial/sf](https://github.com/r-spatial/sf/wiki/Installation-Guide) and [stackexchange](https://stackoverflow.com/questions/53597551/how-install-sf-rs-package-or-gdal-at-centos-6-8) 
 
 `wget http://download.osgeo.org/gdal/3.1.3/gdal-3.1.3.tar.gz`    
 `tar -zxvf gdal-3.1.3.tar.gz`     
